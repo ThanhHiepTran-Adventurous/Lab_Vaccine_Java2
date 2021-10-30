@@ -1,2 +1,2 @@
-# Lab_Vaccine_Java
+# Lab_Vaccine_Java2
 Code is my passion.
